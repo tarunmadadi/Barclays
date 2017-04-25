@@ -1,0 +1,3 @@
+App_name Servers_offline  Status
+IVR         0/3           OK
+EBS         2/3           WARNING
